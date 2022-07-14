@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL:(https://dbttlnkd.github.io/frontend_mentor_product_preview_card_component/
+- Solution URL: [Solution on FrontEnd Mentor](https://your-solution-url.com)
+- Live Site URL:[Live Site](https://dbttlnkd.github.io/frontend_mentor_product_preview_card_component/
 
 ## My process
 
@@ -44,27 +44,11 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This is my first desing on HTML/CSS for which I had the opportunity to learn about Flexbox.
 
-To see how you can add code snippets, see below:
+I had some difficulties on making sure the cart SVG was fully centered on height and I did not succeed with using a ```html <button>``` and ```css::before.```.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+I corrected the issue with using ```html <a href""> instead. Not sure if this is the best way.
 
 ### Continued development
 
