@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution on FrontEnd Mentor](https://your-solution-url.com)
-- Live Site URL:[Live Site](https://dbttlnkd.github.io/frontend_mentor_product_preview_card_component/
+- Live Site URL: [Live Site](https://dbttlnkd.github.io/frontend_mentor_product_preview_card_component/)
 
 ## My process
 
@@ -48,7 +48,7 @@ This is my first desing on HTML/CSS for which I had the opportunity to learn abo
 
 I had some difficulties on making sure the cart SVG was fully centered on height and I did not succeed with using a ```html <button>``` and ```css::before.```.
 
-I corrected the issue with using ```html <a href""> instead. Not sure if this is the best way.
+I corrected the issue with using ```html <a href"">``` instead. Not sure if this is the best way.
 
 ### Continued development
 
