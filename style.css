@@ -134,7 +134,7 @@ h1{
     .product_image{
         height: 240px;
         width: auto;
-        background: url(/images/image-product-mobile.jpg);
+        background: url(images/image-product-mobile.jpg);
         border-radius: 10px 10px 0 0;
         background-size: cover;
     }
