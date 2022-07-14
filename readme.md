@@ -44,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-This is my first desing on HTML/CSS for which I had the opportunity to learn about Flexbox.
+This is my first design on HTML/CSS for which I had the opportunity to learn about Flexbox.
 
 I had some difficulties on making sure the cart SVG was fully centered on height and I did not succeed with using a ```html <button>``` and ```css::before.```.
 
