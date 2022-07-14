@@ -16,7 +16,7 @@ body{
     display: flex;
     width: 600px;
     height: 450px;
-    top: 40%;
+    top: 50%;
     transform: translateY(-50%);
 }
 
